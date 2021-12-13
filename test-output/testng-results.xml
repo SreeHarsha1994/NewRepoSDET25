@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-11T08:09:44 IST" name="Default suite" finished-at="2021-12-11T08:09:44 IST" duration-ms="29">
+  <suite started-at="2021-12-13T14:39:53 IST" name="Default suite" finished-at="2021-12-13T14:39:53 IST" duration-ms="32">
     <groups>
     </groups>
-    <test started-at="2021-12-11T08:09:44 IST" name="Default test" finished-at="2021-12-11T08:09:44 IST" duration-ms="29">
-      <class name="com.crm.SDET2526Practice.ReadDataFromCmdTest">
-        <test-method signature="read()[pri:0, instance:com.crm.SDET2526Practice.ReadDataFromCmdTest@26275bef]" started-at="2021-12-11T08:09:44 IST" name="read" finished-at="2021-12-11T08:09:44 IST" duration-ms="5" status="PASS">
+    <test started-at="2021-12-13T14:39:53 IST" name="Default test" finished-at="2021-12-13T14:39:53 IST" duration-ms="32">
+      <class name="com.crm.SDET2526Practice.NewTest">
+        <test-method signature="batch()[pri:0, instance:com.crm.SDET2526Practice.NewTest@26275bef]" started-at="2021-12-13T14:39:53 IST" name="batch" finished-at="2021-12-13T14:39:53 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- read -->
-      </class> <!-- com.crm.SDET2526Practice.ReadDataFromCmdTest -->
+        </test-method> <!-- batch -->
+      </class> <!-- com.crm.SDET2526Practice.NewTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
